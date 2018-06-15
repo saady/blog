@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>johndoe</title>
-    <link>http://www.example.com/</link>
-    <description>Recent content on johndoe</description>
+    <title>SAADY Yousef</title>
+    <link>https://blissful-fermi-162b16.netlify.com/</link>
+    <description>Recent content on SAADY Yousef</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 15 Jun 2018 05:06:59 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blissful-fermi-162b16.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First page</title>
+      <link>https://blissful-fermi-162b16.netlify.com/posts/first-page/</link>
+      <pubDate>Fri, 15 Jun 2018 05:06:59 +0000</pubDate>
+      
+      <guid>https://blissful-fermi-162b16.netlify.com/posts/first-page/</guid>
+      <description>The first page</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://blissful-fermi-162b16.netlify.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blissful-fermi-162b16.netlify.com/about/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
