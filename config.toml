@@ -1,0 +1,43 @@
+baseurl = "http://www.example.com/"
+title = "SAADY Yousef"
+
+theme = "hugo-coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    author = "SAADY Yousef"
+    description = "SAADY Yousef personal website"
+    keywords = "devops, django, kubernetes, docker, python, grafana, prometheus, monitoring"
+    info = "DevOps Enthusiast"
+
+    hideCredits = true
+    hideCopyright = true
+
+    # Custom CSS
+	custom_css = []
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/saady/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/saadyyousef/"
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
+
+staticDir2 = "/themes/hugo-coder/static/"
